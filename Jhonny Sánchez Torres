@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRUEBA DE SITIO WEB</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>JHONNY SANCHEZ TORRES</h1>
+        <p>Desarrollador Web | Apasionado por la Tecnología</p>
+    </header>
+
+    <section id="biografia">
+        <h2>Biografía</h2>
+        <p>Profesional de la construcción con buen historial supervisando obras. Soy una persona resolutiva y eficiente, con dotes de líder y habilidad probada para gestionar proyectos exitosos de principio a fin. Me interesa aportar mi experiencia a una empresa de construcción moderna e importante en la industria de la construcción..</p>
+    </section>
+
+    <section id="curriculum">
+        <h2>Curriculum</h2>
+        <ul>
+            <li>Experiencia laboral</li>
+            <li>Educación</li>
+            <li>Habilidades técnicas</li>
+        </ul>
+    </section>
+
+    <section id="contacto">
+        <h2>Datos de Contacto</h2>
+        <p>Puedes contactarme en: correo@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Tu Nombre</p>
+    </footer>
+</body>
+</html
